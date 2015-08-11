@@ -1,0 +1,21 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy for APIs",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "illarionvk",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "coffee-script": "~1.9.1",
+    "hapi": "~8.8.1",
+    "wreck": "~6.1.0"
+  },
+  "devDependencies": {},
+  "private": true
+}
