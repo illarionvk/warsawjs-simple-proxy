@@ -1,6 +1,12 @@
 .highlight {
   font-size: 19px;
 }
+.highlight .lineno {
+  background-color: #f6f6f6;
+  padding: 0.5em;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #f6f6f6;
+}
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #408080; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
